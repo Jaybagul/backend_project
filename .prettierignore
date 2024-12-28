@@ -1,0 +1,28 @@
+# Ignore all files in node_modules
+node_modules/
+/.vs code 
+
+
+# Ignore build and output directories
+dist/
+build/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore all files with specific extensions
+*.min.js
+*.min.css
+
+# Ignore environment and config files
+.env
+*.config.js
+
+# Ignore specific files or directories
+coverage/
+public/assets/
+
+# Ignore Markdown and JSON files
+*.md
+*.json

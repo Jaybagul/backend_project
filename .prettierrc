@@ -1,0 +1,9 @@
+{
+    "singleQuates": false,
+    "brackeSpacing": true,
+    "tabSize": 4,
+    "indentSize": 4,
+    "indentWithTabs": true,
+    "indentMode": "auto",
+    "semi": true
+}
